@@ -30,7 +30,7 @@ theme = "hugo-terrassa-theme"
 
 [params.form] # Contact form
     netlify = true
-    action = "https://formspree.io/your@email.com"
+    action = "https://formspree.io/ncsrbl@gmail.com"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Nome"
@@ -56,19 +56,10 @@ theme = "hugo-terrassa-theme"
     address = "R. Felipe Santiago, 411 - Cidade Universitária, Russas-CE, 62900-000"
 
 [params.social]
-    twitter = "https://twitter.com/john"
-    facebook = "https://facebook.com/john"
-    github = "https://github.com/john"
-    gitlab = ""
-    codepen = "https://codepen.io/john"
-    instagram = "https://instagram.com/john"
-    pinterest = ""
-    youtube = ""
-    linkedin = ""
-    weibo = ""
-    mastodon = ""
-    tumblr = ""
-    flickr = ""
+    instagram = "https://www.instagram.com/combateaoaedes_ufc/"
+    github = "https://github.com/ncsrbl/aedes-aegypti"
+    facebook = "https://www.facebook.com/groups/ufccampusrussas"
+    
     "500px" = ""
 
 [params.copy] # Copyright
