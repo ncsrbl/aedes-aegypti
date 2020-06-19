@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Combate ao Aedes Aegypti</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on Combate ao Aedes Aegypti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Do que se trata o mosquito Aedes Aegypti?</title>
+      <link>/sections/mosquito-aedes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/mosquito-aedes/</guid>
+      <description>O Aedes aegypti é uma espécie de mosquito, provavelmente, oriunda do continente africano e tivera ingressado na América do Sul no século 16, por intermédio dos navios negreiros. Contudo, a sua permanência se deve, principalmente, a existência de países subdesenvolvidos, os quais tem carência de saneamento básico e infraestrutura, o que propiciam a proliferação do mosquito. No Brasil, esta proliferação, que resulta em vetores de vários arbovírus globalmente importantes, incluindo o vírus da dengue, zika e chikungunya.</description>
+    </item>
+    
+    <item>
+      <title>Universidade Federal do Ceará - Campus Russas contra o Aedes Aegypti</title>
+      <link>/sections/ufc-combate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sections/ufc-combate/</guid>
+      <description>No Campus da UFC em Russas, em 2016, foi criado o Projeto de Extensão Combate ao Aedes Aegypti. A iniciativa do projeto surgiu pelo aumento nos casos de doenças transmitidas pelo Aedes aegypti na cidade. Além disso, viu-se que os recursos destinados à área de Saúde Pública não têm sido efetivos no combate ao mosquito, sendo necessária a ação de outros setores para o combate ao mesmo. Assim, durante os últimos anos, foram desenvolvidas atividades como: palestras, realizadas em escolas do município de Russas; movimentação de mídia social, utilizando instaram; mesas-redondas, que propõem troca de experiências entre os bolsistas do projeto e demais alunos da instituição e panfletagens que, realizadas em locais estratégicos da cidade para atingir pessoas residentes em locais mais afastado.</description>
+    </item>
+    
+  </channel>
+</rss>
