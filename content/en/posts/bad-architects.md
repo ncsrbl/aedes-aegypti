@@ -1,33 +1,32 @@
 ---
-author: John Doe
-date: "2018-12-16T22:34:04+01:00"
-description: Why living room ideas are killing you.
+author: Lucas Feitosa
+date: "2020-06-21T22:34:04+01:00"
+description: Combate ao Aedes aegypti é intensificado em Fortaleza.
 draft: false
 images: []
-publishDate: "2018-12-19T22:21:42+01:00"
+publishDate: "2020-06-21T22:21:42+01:00"
 tags:
-- health
-- music
-- architecture
-title: How architects aren't as bad as you think
+- Saúde
+- Aedes Aegypti
+- Fortaleza
+title: Combate ao Aedes aegypti é intensificado em Fortaleza
 ---
 
-6 uses for living room decors. [Why living room ideas are killing you](#). The oddest place you will find decorating ideas. Why the world would end without apartment guides. 12 things that won't happen in interior design ideas. How twitter can teach you about bathroom designs. The 12 best floor plan youtube videos. 9 bs facts about living room decors everyone thinks are true. The only home builder resources you will ever need. How decorating ideas can help you predict the future.
+A Secretaria da Saúde do Ceará (Sesa) realiza o bloqueio da transmissão da dengue em 26 bairros de Fortaleza. Ao todo, serão três ciclos de pulverização. O primeiro acontece até esta sexta-feira, 17; o segundo ciclo, de 20 a 24 de abril e o terceiro, de 27 de abril a 1 de maio.
 
-> "Show me the code".
+> Cuidados dentro de casa.
 
-[The 10 best resources for modular homes](#). Home builders by the numbers. *Why you'll never succeed at interior design ideas*. 12 myths uncovered about small house plans. How designer furniture can help you live a better life. Why the world would end without floor plans. How hollywood got interior designs all wrong. An expert interview about kitchen designs. Why our world would end if bathroom designs disappeared. Why mom was right about bathroom designs.
+De acordo com o último boletim epidemiológico da Sesa, o Ceará já registrou neste ano 5.738 casos de dengue, 54 de zika vírus e 549 de chikungunya. Para evitar que o mosquito nasça, é preciso eliminar os criadouros.
 
-```golang
-package main
+O inseticida lançado pelo fumacê não mata as larvas do Aedes aegypti que estão em locais como caixas d´água, potes, baldes, pneus, lajes e bandejas de geladeiras. Por isso, é necessário manter os quintais sempre limpos e recolher todos os objetos que acumulam água.
 
-import "fmt"
+A limpeza deve ser feita pelo menos uma vez por semana. Quando entram em contato com a água, os ovos depositados pela fêmea podem virar larva, pupa e depois um mosquito adulto em apenas oito dias.
 
-func main() {
-    fmt.Println("Hello, Gopher!")
-}
-```
+> Campanha de prevenção.
 
-How building is making the world a better place. **An expert interview about living room ideas**. What everyone is saying about modern living rooms. The 20 best interior design twitter feeds to follow. How to be unpopular in the designer furniture world. [Why mom was right about apartments](#). What the world would be like if kitchen designs didn't exist. The 19 biggest studio apartment blunders. 9 great articles about kitchen planners. How to start using kitchen planners.
+O Governo do Ceará, por meio da Secretaria da Saúde do Estado, desenvolveu a campanha “10 minutos contra o mosquito”. A iniciativa reforça a importância da prevenção no combate às arboviroses. O objetivo é mostrar à população dicas simples, porém fundamentais para evitar a proliferação do mosquito.
 
-Why luxury homes are killing you. 12 least favorite interior designs. How to cheat at luxury homes and get away with it. How floor plans made me a better person. [Why floor plans should be 1 of the 7 deadly sins](#). If you read one article about modern homes read this one. Architectural designs in 11 easy steps. The 19 worst architectural designs in history. How rent houses changed how we think about death. 6 insane (but true) things about small house plans.
+
+
+
+
