@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>/sections/shiny-map/</loc>
+  </url>
+  
+  <url>
     <loc>/sections/mosquito-aedes/</loc>
   </url>
   
@@ -16,11 +20,11 @@
   </url>
   
   <url>
-    <loc>/sections/ufc-combate/</loc>
+    <loc>/prevention/</loc>
   </url>
   
   <url>
-    <loc>/prevention/</loc>
+    <loc>/sections/ufc-combate/</loc>
   </url>
   
   <url>

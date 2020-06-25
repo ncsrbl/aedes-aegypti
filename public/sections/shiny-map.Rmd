@@ -1,0 +1,20 @@
+---
+title: "Mapa e estatísticas"
+author: "nicolas"
+date: "25/06/2020"
+output: html_document
+weight: 1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(shiny)
+library(leaflet)
+```
+
+```{r}
+mapa <- leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng=-4.946142, lat=-37.974433, popup="UFC Campus Russas")
+mapa
+```
