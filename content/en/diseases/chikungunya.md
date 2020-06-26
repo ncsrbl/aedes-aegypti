@@ -40,7 +40,7 @@ Em caso de suspeita, com o surgimento de qualquer sintoma, é fundamental procur
 
 **Recomenda‐se repouso absoluto ao paciente, que deve beber líquidos em abundância**
 
-> **Como prevenir a Dengue ?**
+> **Como prevenir a Chikungunya ?**
 
 Assim como a dengue, zika e febre amarela, é fundamental que as pessoas reforcem as medidas de eliminação dos criadouros de mosquitos aedes aegypti nas suas casas, trabalhos e na vizinhança. 
 
