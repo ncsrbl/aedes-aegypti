@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Doenças on Combate ao Aedes Aegypti</title>
+    <link>/diseases/</link>
+    <description>Recent content in Doenças on Combate ao Aedes Aegypti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 Jun 2020 12:18:03 -0300</lastBuildDate>
+    
+	<atom:link href="/diseases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zika Virus</title>
+      <link>/diseases/zika-virus/</link>
+      <pubDate>Fri, 26 Jun 2020 12:18:03 -0300</pubDate>
+      
+      <guid>/diseases/zika-virus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dengue: causas, sintomas, tratamento e prevenção</title>
+      <link>/diseases/dengue/</link>
+      <pubDate>Fri, 26 Jun 2020 12:17:56 -0300</pubDate>
+      
+      <guid>/diseases/dengue/</guid>
+      <description>Descrição e causas da Dengue
+ Dengue é uma doença febril grave causada por um arbovírus. Arbovírus são vírus transmitidos por picadas de insetos, especialmente os mosquitos. Existem quatro tipos de vírus de dengue (sorotipos 1, 2, 3 e 4). Cada pessoa pode ter os 4 sorotipos da doença, mas a infecção por um sorotipo gera imunidade permanente para ele.
+O transmissor (vetor) da dengue é o mosquito Aedes aegypti, que precisa de água parada para se proliferar.</description>
+    </item>
+    
+    <item>
+      <title>Chikungunya</title>
+      <link>/diseases/chikungunya/</link>
+      <pubDate>Fri, 26 Jun 2020 11:44:01 -0300</pubDate>
+      
+      <guid>/diseases/chikungunya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

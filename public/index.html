@@ -10,7 +10,7 @@
 
 	
 
-	<meta name="generator" content="Hugo 0.72.0" />
+	<meta name="generator" content="Hugo 0.73.0" />
 
 	
 
@@ -25,7 +25,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/" />
 <meta property="og:image" content="/undraw_freelancer_b0my.svg" />
-<meta property="og:updated_time" content="2020-06-21T22:34:04+01:00" />
+<meta property="og:updated_time" content="2020-06-26T12:18:03-03:00" />
 
 
 	<meta property="og:locale" content="en" />
@@ -65,16 +65,9 @@
         </li>
         
         <li class="menu__items__item" aria-label="Doenças">
-            <a href="/disease/" class="menu__items__item__link "
+            <a href="/diseases/" class="menu__items__item__link "
                 alt="Doenças" role="menuitem">
                 Doenças
-            </a>
-        </li>
-        
-        <li class="menu__items__item" aria-label="Prevenção">
-            <a href="/prevention/" class="menu__items__item__link "
-                alt="Prevenção" role="menuitem">
-                Prevenção
             </a>
         </li>
         
@@ -110,14 +103,8 @@
             </li>
             
             <li class="hamburger__items__item" aria-label="Doenças">
-                <a href="/disease/" class="hamburger__items__item__link" alt="Doenças" role="menuitem">
+                <a href="/diseases/" class="hamburger__items__item__link" alt="Doenças" role="menuitem">
                     Doenças
-                </a>
-            </li>
-            
-            <li class="hamburger__items__item" aria-label="Prevenção">
-                <a href="/prevention/" class="hamburger__items__item__link" alt="Prevenção" role="menuitem">
-                    Prevenção
                 </a>
             </li>
             
@@ -165,7 +152,7 @@
 
 
 <section class="section">
-    <h1 class="section__title">Mapa e estatísticas</h1>
+    <h1 class="section__title">Mapa</h1>
     <div class="section__content">
         
 <script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
@@ -179,12 +166,8 @@
 <script src="/rmarkdown-libs/leaflet-binding/leaflet.js"></script>
 
 
-<pre class="r"><code>mapa &lt;- leaflet() %&gt;%
-  addTiles() %&gt;%
-  addMarkers(lng=-4.946142, lat=-37.974433, popup=&quot;UFC Campus Russas&quot;)
-mapa</code></pre>
 <div id="htmlwidget-1" style="width:672px;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[-37.974433,-4.946142,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"UFC Campus Russas",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-37.974433,-37.974433],"lng":[-4.946142,-4.946142]}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[-4.946142,-37.974433,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"UFC Campus Russas",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-4.946142,-4.946142],"lng":[-37.974433,-37.974433]}},"evals":[],"jsHooks":[]}</script>
 
     </div>
 </section>

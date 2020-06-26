@@ -1,5 +1,5 @@
 ---
-title: "Mapa e estatísticas"
+title: "Mapa"
 author: "nicolas"
 date: "25/06/2020"
 output: html_document
@@ -8,13 +8,14 @@ weight: 1
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-library(shiny)
 library(leaflet)
 ```
 
-```{r}
+```{r, echo=FALSE}
 mapa <- leaflet() %>%
   addTiles() %>%
-  addMarkers(lng=-4.946142, lat=-37.974433, popup="UFC Campus Russas")
+  addMarkers(lng=-37.974433, lat=-4.946142, popup="UFC Campus Russas")
 mapa
 ```
+
+
