@@ -31,7 +31,7 @@ theme = "hugo-terrassa-theme"
  
 
     netlify = true
-    action = "https://formspree.io/ncsrbl@gmail.com" 
+    action = "https://formspree.io/lucascaefeitosa97@gmail.com" 
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Nome"
