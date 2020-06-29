@@ -28,8 +28,10 @@ theme = "hugo-terrassa-theme"
     integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
 
 [params.form] # Contact form
+ 
+
     netlify = true
-    action = "https://my.formsparrow.com/api/lucascaefeitosa97@gmail.com"
+    action = "https://formspree.io/ncsrbl@gmail.com" 
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Nome"
