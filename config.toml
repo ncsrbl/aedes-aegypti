@@ -29,7 +29,7 @@ theme = "hugo-terrassa-theme"
 
 [params.form] # Contact form
     netlify = true
-    action = "https://formspree.io/ncsrbl@gmail.com"
+    action = "https://my.formsparrow.com/api/lucascaefeitosa97@gmail.com"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Nome"
