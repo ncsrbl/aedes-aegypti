@@ -1,16 +1,19 @@
 ---
 author: Lucas Feitosa
 date: "2020-06-21T22:34:04+01:00"
-description: Combate ao Aedes aegypti é intensificado em Fortaleza.
+description: 
 draft: false
 images: []
 publishDate: "2020-06-21T22:21:42+01:00"
 tags:
 - Saúde
-- Aedes Aegypti
+- Aedes-Aegypti
 - Fortaleza
 title: Combate ao Aedes aegypti é intensificado em Fortaleza
 ---
+
+
+
 
 A Secretaria da Saúde do Ceará (Sesa) realiza o bloqueio da transmissão da dengue em 26 bairros de Fortaleza. Ao todo, serão três ciclos de pulverização. O primeiro acontece até esta sexta-feira, 17; o segundo ciclo, de 20 a 24 de abril e o terceiro, de 27 de abril a 1 de maio.
 
