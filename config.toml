@@ -4,10 +4,9 @@ author = "Nicolas Rabelo (ncsrbl)"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 paginate = 3
-
+sectionPagesMenu = "mainmenu"
 theme = "hugo-terrassa-theme"
-
-
+    
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
     favicon = "favicon.ico"

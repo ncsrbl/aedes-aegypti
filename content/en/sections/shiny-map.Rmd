@@ -1,0 +1,21 @@
+---
+title: "Mapa"
+author: "nicolas"
+date: "25/06/2020"
+output: html_document
+weight: 1
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(leaflet)
+```
+
+```{r, echo=FALSE}
+mapa <- leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng=-37.974433, lat=-4.946142, popup="UFC Campus Russas")
+mapa
+```
+
+
