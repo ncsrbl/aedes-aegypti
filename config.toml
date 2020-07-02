@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "_files$", "_cache$"]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
     favicon = "favicon.ico"
     logo = ""
-    email="lucascaefeitosa97@gmail.com"
+
 
 [params.hero]
     textColor = "" # Empty for default color
@@ -54,7 +54,7 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "_files$", "_cache$"]
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "lucascaefeitosa97@gmail.com"
+    email = "ufc_russascombateaoaedes@gmail.com"
     phone = " (88) 3411-6023"
     skype = ""
     address = "R. Felipe Santiago, 411 - Cidade Universitária, Russas-CE, 62900-000"

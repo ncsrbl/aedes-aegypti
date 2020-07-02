@@ -4,7 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-21T22:34:04+01:00</lastmod>
+    <lastmod>2020-06-26T12:18:03-03:00</lastmod>
   </url>
   
   <url>
@@ -12,11 +12,12 @@
   </url>
   
   <url>
-    <loc>/sections/mosquito-aedes/</loc>
+    <loc>/diseases/</loc>
+    <lastmod>2020-06-26T12:18:03-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/diseases/</loc>
+    <loc>/sections/mosquito-aedes/</loc>
   </url>
   
   <url>
@@ -30,6 +31,21 @@
   
   <url>
     <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/diseases/zika-virus/</loc>
+    <lastmod>2020-06-26T12:18:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/diseases/dengue/</loc>
+    <lastmod>2020-06-26T12:17:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/diseases/chikungunya/</loc>
+    <lastmod>2020-06-26T11:44:01-03:00</lastmod>
   </url>
   
   <url>
