@@ -6,11 +6,14 @@ defaultContentLanguage = "en"
 paginate = 3
 sectionPagesMenu = "mainmenu"
 theme = "hugo-terrassa-theme"
+
+ignoreFiles = ["\\.Rmd$", "\\.rmd$", "_files$", "_cache$"]
     
 [params]
     description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
     favicon = "favicon.ico"
     logo = ""
+    email="lucascaefeitosa97@gmail.com"
 
 [params.hero]
     textColor = "" # Empty for default color
@@ -51,7 +54,7 @@ theme = "hugo-terrassa-theme"
     dateFormat = "Monday, Jan, 2006"
 
 [params.contact] # Contact info
-    email = "ufc.combateaedes@gmail.com"
+    email = "lucascaefeitosa97@gmail.com"
     phone = " (88) 3411-6023"
     skype = ""
     address = "R. Felipe Santiago, 411 - Cidade Universitária, Russas-CE, 62900-000"
