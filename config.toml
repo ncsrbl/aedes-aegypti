@@ -34,7 +34,7 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "_files$", "_cache$"]
  
 
     data-netlify = true
-    action = "https://formspree.io/lucascaefeitosa97@gmail.com"
+    action = "https://formspree.io/projetoaedesaegyptiufc@gmail.com"
     method = "POST"
     inputNameName = "name"
     inputNameLabel = "Nome"
